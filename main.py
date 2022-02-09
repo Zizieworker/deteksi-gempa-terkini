@@ -5,7 +5,7 @@ Modularisasi dengan Function
 """
 def ekstraksi_data():
     """
-    08 Februari 2022, 07:29:30 WIB
+    08 Februari 2022, 07:29:30 WIBvv
     3.2
     10 km
     2.52 LS - 140.55 BT
